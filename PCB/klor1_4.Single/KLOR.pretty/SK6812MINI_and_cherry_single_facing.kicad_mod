@@ -1,4 +1,4 @@
-(footprint "SK6812MINI_and_cherry_1"
+(footprint "SK6812MINI_and_cherry_single_facing"
 	(version 20241229)
 	(generator "pcbnew")
 	(generator_version "9.0")
@@ -8,7 +8,7 @@
 		(unlocked yes)
 		(layer "F.SilkS")
 		(hide yes)
-		(uuid "8a393ed2-cfe0-4f0f-9490-ab6f8e39e2cc")
+		(uuid "ea541fc0-b675-4afe-a081-9cb9d50141e2")
 		(effects
 			(font
 				(size 1 1)
@@ -20,7 +20,7 @@
 		(at -0.3 8.2 180)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "9609951e-245f-49f5-8d94-16782abbfe37")
+		(uuid "896b7546-153a-438c-bd2c-444663b025e1")
 		(effects
 			(font
 				(size 1 1)
@@ -32,7 +32,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "b417102f-855c-4a35-bec1-600917eaa683")
+		(uuid "248c1da9-f73d-4d40-9e69-15cab0116be1")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -44,7 +44,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "34d61ba7-ddbc-48b6-b76a-ccbbfdfc23e5")
+		(uuid "a4fc42ca-3694-4031-8913-bbcf271d40df")
 		(effects
 			(font
 				(size 1.27 1.27)
