@@ -1,4 +1,4 @@
-25245598554757102
+25263594268148263
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -65510,10 +65510,24 @@ MJ-4PP-9
 
 
 0
+4
+4
+KLOR
+MJ-4PP-9.double
+
+
+0
 8
 4
 KLOR
 MSK12C02_reversible
+
+
+0
+10
+4
+KLOR
+MSK12C02_reversible.double
 
 
 0
